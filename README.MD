@@ -1,1 +1,1 @@
-# HGMNetwork.v5 All-in-One Type Script
+# HGMNetwork.v5 All-in-One Type Script.
