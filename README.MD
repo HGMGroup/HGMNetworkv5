@@ -4,7 +4,7 @@ Version: v5.23.5 - 16.04.21
 ====
 VirusTotal;
 ====
-https://www.virustotal.com/gui/file/57aecb41e0ead96a1f01464c81fa9c72042c1bf4f1ac212e02674a94a297cc13/detection
+https://www.virustotal.com/gui/file/61b50912eec7de4a6b95e0d44d049c18d5e054de5f304555ec89bc491089f9d5/community
 ====
 wget git.io/HGMNetworkv5
 ====
