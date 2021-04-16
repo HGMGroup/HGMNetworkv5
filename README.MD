@@ -7,4 +7,4 @@ VirusTotal;
 https://www.virustotal.com/gui/file/57aecb41e0ead96a1f01464c81fa9c72042c1bf4f1ac212e02674a94a297cc13/detection
 ====
 wget git.io/HGMNetworkv5
-wget git.io/HGMNetwork.v5 -O HGMNetworkv5
+====
