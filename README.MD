@@ -1,6 +1,6 @@
 # HGMNetwork.v5 All-in-One Type Script.
 
-Version: v5.23.5 - 16.04.21
+Version: v5.23.5 - 19.07.21
 ====
 VirusTotal;
 ====
