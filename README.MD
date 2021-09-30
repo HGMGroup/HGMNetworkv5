@@ -1,10 +1,10 @@
 # HGMNetwork.v5 All-in-One Type Script.
 
-Version: v5.23.7 - 19.07.21
+Version: v5.23.8 - 30.09.21
 ====
 VirusTotal;
 ====
-https://www.virustotal.com/gui/file/f5d647abab0ad79df70612d4a497643b59881fead839ad3f4f7e900884e09136/detection
+https://www.virustotal.com/gui/file/78613464a78b48fc23e1f232b213be4725452cae94f3533e4e411a3977761e1f/detection
 ====
 wget git.io/HGMNetworkv5
 ====
