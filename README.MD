@@ -4,7 +4,7 @@ Version: v5.24.2 - 23.08.22
 ====
 VirusTotal;
 ====
-https://www.virustotal.com/gui/file/eb142eb71357817632ae11f1c9ea4ee2eeae6033cd46d60fcebe5f63685592eb/detection
+https://www.virustotal.com/gui/file/8ca12e519d7658a1073817238ba765c3a80c23042951a18c63cc19788d2273c9/detection
 ====
 wget git.io/HGMNetworkv5
 ====
